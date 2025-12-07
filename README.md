@@ -5,7 +5,7 @@
 ## 📸 Project Preview
 
 <p align="center">
-  <img src="frontend/assets/Preview.png" alt="Forever Full Stack" width="100%" />
+  <img src="frontend/src/assets/Preview.png" alt="Forever Full Stack" width="100%" />
 </p>
 
 ---
