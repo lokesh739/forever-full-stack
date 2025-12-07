@@ -5,7 +5,7 @@
 ## 📸 Project Preview
 
 <p align="center">
-  <img src="https://i.ibb.co/jvY7Zd4F/Screenshot 2025-12-08 024729.png" alt="Startup Advisory" width="100%" />
+  <img src="frontend/assets/preview.png" alt="Forever Full Stack" width="100%" />
 </p>
 
 ---
